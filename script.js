@@ -1,6 +1,6 @@
 function cambiarTexto() {
     var elemento = document.getElementById("demo");
-    elemento.innerHTML = "¡Gracias!";
+    elemento.innerHTML = "¡Gracias!!";
 
      // Mostrar el overlay
      var overlay = document.getElementById("overlay");
